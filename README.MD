@@ -24,4 +24,4 @@ This is a simple Netflix Clone project built using HTML and CSS. It replicates t
 ![Screenshot 3](assets/screenshots/screenshot3.png)
 
 ### Screenshot 4
-![Screenshot 4](assets/screenshots/screensho.png)
+![Screenshot 4](assets/screenshots/screenshot4.png)
